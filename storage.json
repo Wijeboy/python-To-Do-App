@@ -9,9 +9,20 @@
         "Study",
         "vegetable"
       ]
+    },
+    "pramod": {
+      "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "created_at": "2026-04-23T14:37:37",
+      "categories": [
+        "Personal",
+        "Work",
+        "Study",
+        "super work"
+      ]
     }
   },
   "tasks": {
-    "wijeboy": []
+    "wijeboy": [],
+    "pramod": []
   }
 }
